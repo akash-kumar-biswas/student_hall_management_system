@@ -1,0 +1,203 @@
+Press 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 to do the following operation:
+1.Add new student.
+2.Remove student.
+3.Display all student.
+4.Set halldue.
+5.Display halldue.
+6.Pay off halldue.
+7.Get on meal.
+8.Get off meal.
+9.Display meal.
+10.Add new staff.
+11.Display all staff.
+12.Search a student.
+
+1
+
+Enter name, id, roll, room number and department: 
+Akash 112233 2107013 101 CSE
+
+The student with id 112233 added successfully and allocated room no. is: 101
+
+Press (Y/y) to return the previous stage.
+y
+Press 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 to do the following operation:
+1.Add new student.
+2.Remove student.
+3.Display all student.
+4.Set halldue.
+5.Display halldue.
+6.Pay off halldue.
+7.Get on meal.
+8.Get off meal.
+9.Display meal.
+10.Add new staff.
+11.Display all staff.
+12.Search a student.
+
+1
+
+Enter name, id, roll, room number and department: 
+Ajoy 445566 2106081 102 ME
+
+The student with id 445566 added successfully and allocated room no. is: 102
+
+Press (Y/y) to return the previous stage.
+y
+Press 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 to do the following operation:
+1.Add new student.
+2.Remove student.
+3.Display all student.
+4.Set halldue.
+5.Display halldue.
+6.Pay off halldue.
+7.Get on meal.
+8.Get off meal.
+9.Display meal.
+10.Add new staff.
+11.Display all staff.
+12.Search a student.
+
+3
+
+Display all current student in this hall:
+(1):
+Name: Akash
+ID: 112233
+Roll: 2107013
+Room Number: 101
+Dept: CSE
+
+(2):
+Name: Ajoy
+ID: 445566
+Roll: 2106081
+Room Number: 102
+Dept: ME
+
+
+Press (Y/y) to return the previous stage.
+y
+Press 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 to do the following operation: 
+1.Add new student.
+2.Remove student.
+3.Display all student.
+4.Set halldue.
+5.Display halldue.
+6.Pay off halldue.
+7.Get on meal.
+8.Get off meal.
+9.Display meal.
+10.Add new staff.
+11.Display all staff.
+12.Search a student.
+
+4
+
+Enter name, id and halldue: 
+Akash 112233 5000
+
+Set hall due of the student with id: 112233
+Hall due set successfully of the student with id: 112233
+
+
+Press (Y/y) to return the previous stage.
+y
+Press 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 to do the following operation: 
+1.Add new student.
+2.Remove student.
+3.Display all student.
+4.Set halldue.
+5.Display halldue.
+6.Pay off halldue.
+7.Get on meal.
+8.Get off meal.
+9.Display meal.
+10.Add new staff.
+11.Display all staff.
+12.Search a student.
+
+6
+
+Enter name, id and money: 
+Akash 112233 4000
+
+Pay off hallldue of the student with id: 112233
+Paid off halldue successfully.
+
+Press (Y/y) to return the previous stage.
+y
+Press 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 to do the following operation:
+1.Add new student.
+2.Remove student.
+3.Display all student.
+4.Set halldue.
+5.Display halldue.
+6.Pay off halldue.
+7.Get on meal.
+8.Get off meal.
+9.Display meal.
+10.Add new staff.
+11.Display all staff.
+12.Search a student.
+
+7
+
+Enter name, id, date1 and date2: 
+Akash 1112233 20/08/2023 25/08/2023
+
+Press (Y/y) to return the previous stage.
+y
+Press 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 to do the following operation: 
+1.Add new student.
+2.Remove student.
+3.Display all student.
+4.Set halldue.
+5.Display halldue.
+6.Pay off halldue.
+7.Get on meal.
+8.Get off meal.
+9.Display meal.
+10.Add new staff.
+11.Display all staff.
+12.Search a student.
+
+9
+
+Enter name and id: 
+Akash 112233
+
+Your meal is off from 20/08/2023 to 25/08/2023.
+
+Press (Y/y) to return the previous stage.
+y
+
+Press 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12 to do the following operation:
+1.Add new student.
+2.Remove student.
+3.Display all student.
+4.Set halldue.
+5.Display halldue.
+6.Pay off halldue.
+7.Get on meal.
+8.Get off meal.
+9.Display meal.
+10.Add new staff.
+11.Display all staff.
+12.Search a student.
+
+12
+
+Enter name and id: 
+Akash 112233
+
+Name: Akash
+ID: 112233
+Roll: 2107013
+Room Number: 101
+Dept: CSE
+
+Press (Y/y) to return the previous stage.
+n
+PS C:\Users\Akash Biswas\OneDrive\Desktop\coding\c++> 
+ 
